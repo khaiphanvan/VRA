@@ -14,6 +14,6 @@ Du lieu de trainning:
 	Tap tin:
 		feat_info.mat
 		feature.bin
-
+	Link tai: https://drive.google.com/drive/folders/12UKXiUU3_9EcVuwNlktv3TOYfs-btN6Z?usp=sharing
 HV thuc hien
 Tran trong
